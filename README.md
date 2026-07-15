@@ -3,13 +3,13 @@
 An interactive 7-LED Chaser project built with Arduino Uno.
 
 ## Project Demo
-![LED Chaser Demo](led-chaser-demo.gif)
+![LED Chaser Demo](WhatsAppVideo2026-07-15at3.10.36PM-ezgif.com-video-to-gif-converter.gif)
 
 ## Simulation
-![Circuit Simulation](circuit-simulation.gif)
+![Circuit Simulation](circuit%20simulation.gif.gif)
 
 ## Hardware Setup
-![Hardware Setup](hardware-setup.jpeg)
+![Hardware Setup](hardware%20setup.jpeg)
 
 ## Features
 - Controls 7 LEDs in a sequential pattern.
@@ -25,3 +25,10 @@ An interactive 7-LED Chaser project built with Arduino Uno.
 ## Wiring
 - Connect the LEDs to Arduino digital pins 2 through 8.
 - Ensure the common ground (GND) is connected to the breadboard's ground rail.
+
+---
+
+## About the Author
+**Ziad Ahmed**  
+CAD Instructor | Student Cohort Leader | Electronics Enthusiast  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ziad-ahmed-819906370)
