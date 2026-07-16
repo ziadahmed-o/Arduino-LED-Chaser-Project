@@ -32,6 +32,6 @@ This project demonstrates sequential lighting control using Arduino. It serves a
 ---
 
 ## About the Author
-**Ziad Ahmed**  
+**Ziad Ahmed**   
 CAD Instructor | Student Cohort Leader | Electronics Enthusiast  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/ziad-ahmed-819906370)
