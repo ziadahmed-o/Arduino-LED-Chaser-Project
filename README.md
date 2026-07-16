@@ -1,8 +1,11 @@
 # Arduino 7-LED Chaser
 
-An interactive 7-LED Chaser project built with Arduino Uno.
+An interactive 7-LED Chaser project built with Arduino Uno. 
 
-## Project Demo
+## Project Overview
+This project demonstrates sequential lighting control using Arduino. It serves as a foundational exercise in digital pin manipulation and circuit prototyping.
+
+## Visual Documentation
 ![LED Chaser Demo](WhatsAppVideo2026-07-15at3.10.36PM-ezgif.com-video-to-gif-converter.gif)
 
 ## Simulation
